@@ -1,0 +1,11 @@
+# Dependencies
+**/node_modules/
+
+# Editor
+.vscode/
+
+# Logs
+*.log
+
+# Runtime data
+*.sqlite
