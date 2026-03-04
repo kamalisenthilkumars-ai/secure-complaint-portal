@@ -1,9 +1,8 @@
 # secure-complaint-portal
 This project is a secure, privacy-focused web platform designed to help men and women safely report harassment incidents. The system provides a Tamil-first interface, anonymous complaint support, encrypted evidence handling, and role-based administrative review.
 The goal of this platform is to reduce fear in reporting, ensure victim privacy, and enable transparent complaint tracking.
-Key Features
- User Features
-
+Key Features:-
+User Features:
 
 Tamil-first user interface
 Language selection (Tamil / English)
@@ -15,7 +14,7 @@ Emergency SOS support
 Transparent status tracking
 Privacy & safety disclaimer
 
-Admin Features
+Admin Features:
 
 Secure admin login
 Role-based dashboard
@@ -25,9 +24,9 @@ Case status updates
 High-priority SOS marking
 Complete audit logging
 
-Security Features
+Security Features:
 
-Encrypted evidence storage
+ -Encrypted evidence storage
 SHA-256 hash integrity check
 Role-based access control
 Anonymous user protection
